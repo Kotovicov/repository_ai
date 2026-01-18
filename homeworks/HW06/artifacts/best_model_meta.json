@@ -1,0 +1,10 @@
+{
+    "best_model_label": "random_forest",
+    "selection_metric": "roc_auc",
+    "best_score": 0.9293588068567185,
+    "test_metrics": {
+        "accuracy": 0.8913333333333333,
+        "f1": 0.7565953210552514,
+        "roc_auc": 0.9293588068567185
+    }
+}

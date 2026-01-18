@@ -1,0 +1,29 @@
+{
+  "ds1": {
+    "method": "kmeans",
+    "params": {
+      "k": 2,
+      "eps": null,
+      "min_samples": null
+    },
+    "criterion": "silhouette_score"
+  },
+  "ds2": {
+    "method": "kmeans",
+    "params": {
+      "k": 2,
+      "eps": null,
+      "min_samples": null
+    },
+    "criterion": "silhouette_score"
+  },
+  "ds3": {
+    "method": "kmeans",
+    "params": {
+      "k": 3,
+      "eps": null,
+      "min_samples": null
+    },
+    "criterion": "silhouette_score"
+  }
+}
