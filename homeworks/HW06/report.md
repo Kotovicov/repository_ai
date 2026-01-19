@@ -56,6 +56,7 @@ Baseline:
   Подбирались параметры:
   - `max_depth`
   - `min_samples_leaf`
+  - `ccp_alpha`
 - `RandomForestClassifier`  
   Подбирались параметры:
   - `max_depth`

@@ -1,6 +1,7 @@
 {
     "decision_tree": {
         "best_params": {
+            "ccp_alpha": 0.0,
             "max_depth": null,
             "min_samples_leaf": 20
         },
