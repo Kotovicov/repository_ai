@@ -1,0 +1,12 @@
+{
+  "dataset": "KMNIST",
+  "hidden_dims": [
+    256,
+    128
+  ],
+  "dropout": 0.3,
+  "batchnorm": true,
+  "optimizer": "Adam",
+  "lr": 0.001,
+  "seed": 42
+}
